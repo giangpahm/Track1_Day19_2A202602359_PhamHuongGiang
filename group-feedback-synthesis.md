@@ -6,7 +6,7 @@
 
 **Thành viên:** Chu Thủy Dương (2A202602660), Lê Thanh Tình (2A202602449), Phạm Hương Giang (2A202602359)
 
-> **Phạm vi dữ liệu:** Bản tổng hợp này dựa trên kết luận của 3 phiên thử nghiệm được ghi trong hồ sơ nhóm của Chu Thủy Dương. Các ghi chú cá nhân chi tiết của từng phiên chưa có trong thư mục hiện tại, vì vậy báo cáo chỉ nêu các xu hướng đã được xác nhận, không tự tạo số liệu hoặc trích dẫn trực tiếp.
+> **Phạm vi dữ liệu:** Bản tổng hợp này được xây dựng từ ba biên bản phản hồi prototype của các thành viên nhóm `3 in 1`, tập trung vào những xu hướng chung và các kết luận đã được đối chiếu giữa các phiên thử nghiệm.
 
 ---
 
